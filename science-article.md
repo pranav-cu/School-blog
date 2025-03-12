@@ -1,1 +1,1 @@
-scm pracicle
+scm practical
